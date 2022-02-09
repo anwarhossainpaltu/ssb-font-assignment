@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div {
+  margin: 5rem auto;
+  text-align: center;
+  max-width: 35rem;
+}
+h1 {
+  font-size: 3rem;
+  font-family: "Rowdies", cursive;
+  font-weight: 700;
+}
+p {
+  font-size: 1.2rem;
+  font-family: "Rowdies", sans-serif;
+  font-weight: 400;
+}
